@@ -1,4 +1,4 @@
-module github.com/Snipa22/go-xmr-lib
+module github.com/Jagtech-Services/go-xmr-lib
 
 go 1.24
 

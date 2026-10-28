@@ -5,7 +5,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"github.com/Snipa22/go-xmr-lib/support/structs"
+	"github.com/Jagtech-Services/go-xmr-lib/support/structs"
 	"io"
 	"net/http"
 	"os"
