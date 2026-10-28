@@ -1,6 +1,6 @@
 package daemon
 
-import "github.com/Snipa22/go-xmr-lib/support/serialization"
+import "github.com/Jagtech-Services/go-xmr-lib/support/serialization"
 
 type BlockHeader struct {
 	BlockSize                 int    `json:"block_size"`
